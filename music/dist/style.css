@@ -26,6 +26,31 @@ body {
   animation: slidein 120s forwards infinite alternate;
 }
 
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: aliceblue;
+  padding: 20px 10%;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.header i {
+  padding-right: 10px;
+  color: white;
+  font-size: 30px;
+}
+
+i 
+{
+color: white;
+}
+
 @keyframes slidein {
   0%,
   100% {

@@ -21,36 +21,42 @@ const songs = [
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
   },
   {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
+    title: "Từng Là",
+    name: "Vũ Cát Tường ",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+      // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+      "./music1/TungLa-VuCatTuong-13962415.mp3",
   },
   {
     title: "Instant Crush",
     name: "Daft Punk ft. Julian Casablancas",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+      // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+      "./music1/fv00jfsywh.mp3",
   },
   {
-    title: "As It Was",
-    name: "Harry Styles",
+    title: "Thiên Lý Ơi",
+    name: "Jack 5 Củ",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      "./music1/ThienLyOi-JackJ97-13829746.mp3",
   },
 
   {
-    title: "Physical",
-    name: "Dua Lipa",
+    title: "Nơi Này Có Anh",
+    name: "Tùng Sơn MTP",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+      // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+      "./music1/NoiNayCoAnh-SonTungMTP-4772041.mp3",
   },
   {
-    title: "Delicate",
-    name: "Taylor Swift",
+    title: "Cánh Hoa Vụt Mất",
+    name: "Trương Thế Vinh",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "./music1/CanhHoaVutMat-TruongTheVinh-15363132.mp3",
   },
+
 ];
 
 let currentSongIndex = 3;
