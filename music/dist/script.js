@@ -28,11 +28,11 @@ const songs = [
       "./music1/TungLa-VuCatTuong-13962415.mp3",
   },
   {
-    title: "Instant Crush",
-    name: "Daft Punk ft. Julian Casablancas",
+    title: "Cánh Hoa Vựt Mất",
+    name: "Trương Thế Vinh",
     source:
       // "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
-      "./music1/fv00jfsywh.mp3",
+      "./music1/CanhHoaVutMat-TruongTheVinh-15363132.mp3",
   },
   {
     title: "Thiên Lý Ơi",
