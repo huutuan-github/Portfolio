@@ -16,6 +16,7 @@ body {
     z-index: 100;
 }
 
+
  i 
 {
   width: 50px;
@@ -26,4 +27,6 @@ body {
 
 canvas {
   border: 2px solid rgb(151, 149, 149);
+  width: 800px;
+  height: 500px;
 }
