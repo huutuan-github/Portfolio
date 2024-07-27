@@ -8,7 +8,7 @@
 
 body{
 
-    color: rgb(253, 253, 253);
+    background-image: url("img/anh1.jpg");
 }
 
 .header {
@@ -68,6 +68,7 @@ body{
     height: 100vh;
     background: url('img/anh.jpg') no-repeat;
     background-size: cover;
+    width: 1400px;
     background-position: center;
     display: flex;
     align-items: center;    
@@ -203,6 +204,7 @@ body{
     bottom: -110px;
     width: 200px;
     display: flex;
+    right: 200px;
     justify-content: space-between;
 }
 
